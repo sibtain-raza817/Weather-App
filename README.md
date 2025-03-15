@@ -22,5 +22,5 @@ Clone this repository:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/weather-app.git
+https://github.com/sibtain-raza817/Weather-App
 Open the index.html file in a browser.
